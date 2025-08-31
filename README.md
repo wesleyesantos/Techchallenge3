@@ -41,6 +41,8 @@ Você pode acessar a aplicação ao vivo através do seguinte link:
 
 [Base utilizada](https://raw.githubusercontent.com/wesleyesantos/Techchallenge3/main/ExpVinho.csv)
 
+[📥 Baixar ExpVinho.csv](https://raw.githubusercontent.com/wesleyesantos/Techchallenge3/main/ExpVinho.csv)
+
 ---
 
 Sinta-se à vontade para explorar o projeto e contribuir com melhorias e também me seguir no linkedin! 😉
