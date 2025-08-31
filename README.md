@@ -19,16 +19,10 @@ Criamos a empresa fictícia Vinícola Celestial e todos os dados utilizados fora
 - **Python**: Base para todo o desenvolvimento do projeto, incluindo análise de dados e Machine Learning.
 - **Google Colab**: Utilizado para ETL, desenvolvimento e edição do código em Python.
 ### Bibliotecas utilizadas
-#### Gráficos 
-- **Plotly**
-#### Análise Exploratória
-- **Pandas**
-- **Numpy**
-### Trabalhar com links 
-- **Requests**
-### Criar aplicação 
-- **streamlit**
-  
+- **Gráficos**: Plotly
+- **Análise Exploratória**: Pandas, Numpy
+- **Trabalhar com links**: Requests
+
 
 ## 🚀 Acesse o Projeto
 
