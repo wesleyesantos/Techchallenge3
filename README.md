@@ -39,7 +39,7 @@ Você pode acessar a aplicação ao vivo através do seguinte link:
 
 ## 📚 DATASET"
 
-[Base utilizada](https://github.com/wesleyesantos/Techchallenge3/raw/refs/heads/main/ExpVinho.csv/)
+[Base utilizada](blob:https://github.com/e5af3612-b2fe-4240-b785-ab4fd347b69c)
 
 ---
 
