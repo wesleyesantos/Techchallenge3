@@ -43,6 +43,9 @@ Você pode acessar a aplicação ao vivo através do seguinte link:
 
 [📥 Baixar ExpVinho.csv](https://raw.githubusercontent.com/wesleyesantos/Techchallenge3/main/ExpVinho.csv)
 
+<a href="https://raw.githubusercontent.com/wesleyesantos/Techchallenge3/main/ExpVinho.csv" download>
+  <img src="https://img.shields.io/badge/Baixar%20CSV-📥-blue?style=for-the-badge" />
+</a>
 ---
 
 Sinta-se à vontade para explorar o projeto e contribuir com melhorias e também me seguir no linkedin! 😉
