@@ -34,7 +34,7 @@ Criamos a empresa fictícia Vinícola Celestial e todos os dados utilizados fora
 
 Você pode acessar a aplicação ao vivo através do seguinte link:
 
-[Techchallenge III - Análise do cenário do vinho no Sul do Brasil](https://on.fiap.com.br/pluginfile.php/1078704/assignsubmission_file/submission_files/472033/Dashboard%20-%20An%C3%A1lise%20Exporta%C3%A7%C3%B5es%20Vin%C3%ADcola%20Celestial.pdf?forcedownload=1)
+[Techchallenge III - Análise do cenário do vinho no Sul do Brasil](blob:https://github.com/c6ed7ba6-a688-4bc8-9a16-aca4c30b23db/)
 
 ## 📚 DATASET"
 
