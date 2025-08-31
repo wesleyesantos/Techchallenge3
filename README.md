@@ -39,14 +39,24 @@ Você pode acessar a aplicação ao vivo através do seguinte link:
 
 ## 📚 DATASET"
 
-[Base utilizada](https://raw.githubusercontent.com/wesleyesantos/Techchallenge3/main/ExpVinho.csv)
-
-[📥 Baixar ExpVinho.csv](https://raw.githubusercontent.com/wesleyesantos/Techchallenge3/main/ExpVinho.csv)
-
 <a href="https://raw.githubusercontent.com/wesleyesantos/Techchallenge3/main/ExpVinho.csv" download>
   <img src="https://img.shields.io/badge/Baixar%20CSV-📥-blue?style=for-the-badge" />
 </a>
----
+
+
+<a href="https://raw.githubusercontent.com/wesleyesantos/Techchallenge3/main/ExpVinho.csv" download="ExpVinho.csv">
+  <img src="https://img.icons8.com/material-outlined/24/000000/download--v1.png" alt="Download"> 
+  Download CSV
+</a>
+
+<a href="https://raw.githubusercontent.com/wesleyesantos/Techchallenge3/main/ExpVinho.csv" download="ExpVinho.csv">
+  <img src="https://img.shields.io/badge/Download-CSV-blue?style=for-the-badge&logo=github" alt="Download CSV"/>
+</a>
+
+
+<a href="https://raw.githubusercontent.com/wesleyesantos/Techchallenge3/main/ExpVinho.csv" download="ExpVinho.csv">
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/download.png" alt="Download">
+</a>
 
 Sinta-se à vontade para explorar o projeto e contribuir com melhorias e também me seguir no linkedin! 😉
 
